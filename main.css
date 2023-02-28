@@ -133,6 +133,15 @@ nav ul li:hover {
         font-size: 2rem;
         width: 100%;
     }
+}
 
+@media (max-width:500px) {
+    .header-content p {
+        width: 300px;
+    }
 
+    .header-content h1 {
+        font-size: 1rem;
+        width: 100%;
+    }
 }
